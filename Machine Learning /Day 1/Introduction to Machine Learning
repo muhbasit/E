@@ -1,1 +1,23 @@
-Definition of Machine Learning 
+## Machine Learning 
+The field of study that gives computers the ability to 
+without being explicitly programmed. 
+
+Machine Learning is making the computer learn from studying data and statistics.
+Machine Learning is a step into the direction of artificial intelligence (AI).
+Machine Learning is a program that analyses data and learns to predict the outcome.
+
+The deep learning revolution started around 2010.
+Since then, Deep Learning has solved many "unsolvable" problems.
+The deep learning revolution was not started by a single discovery. It more or less happened when several needed factors were ready:
+Computers were fast enough
+Computer storage was big enough
+Better training methods were invented
+Better tuning methods were invented
+
+## Example 
+Self Driving Car 
+House Price Prediction 
+Text Recognition 
+Speech Recognition 
+Face Detection 
+Robotics, etc. 
