@@ -10,4 +10,9 @@ print(y)
 # output will be 
 # hello, and welcome to my world. 
 
-
+# concatenation 
+a = "Hello"
+b = "World"
+c = a + " " + b
+print(c)
+# result will be Hello World. 
