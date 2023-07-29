@@ -16,3 +16,7 @@ b = "World"
 c = a + " " + b
 print(c)
 # result will be Hello World. 
+
+txt = "banana"
+x = txt.center(20, "O")
+print(x)
